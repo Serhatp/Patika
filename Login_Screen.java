@@ -4,6 +4,8 @@ import java.util.Scanner;
 public class Login_Screen {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
+        
+        //Username is "Patika" and the password is "Java101" //
 
 
         System.out.println("Please enter your username: ");
