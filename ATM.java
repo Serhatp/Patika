@@ -17,7 +17,7 @@ public class ATM {
             System.out.println("Enter your password: ");
             String password = input.nextLine();
 
-            if (user_id.equals("a") && password.equals("a")) {
+            if (user_id.equals("user123") && password.equals("password123")) {
                 System.out.println("Logged in successfully...");
                 do {
                     System.out.println("1-Deposit money\n2-Withdraw money\n3-Balance inquiry\n4-Exit");
